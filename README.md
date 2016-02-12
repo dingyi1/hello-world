@@ -1,2 +1,3 @@
 # hello-world
-This where i started.
+Hi everyone!
+Tom here,i am doing the tutorial now!
